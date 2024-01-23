@@ -1,0 +1,12 @@
+img{
+    background-size: 20px;
+}
+body{
+    background-image: url("images/dia.jpeg");
+
+
+}
+div{
+    background-color: white;
+    width: 70%;
+}
